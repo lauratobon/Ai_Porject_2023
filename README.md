@@ -13,7 +13,7 @@ y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los s
 
 df = pd.read_csv('/kaggle/input/hotel-booking-demand/hotel_bookings.csv')
 
-
+link codelab: https://colab.research.google.com/drive/1Vt2Fw4kWQpVfjMmocI5ombuw9W-djcfB?usp=sharing#scrollTo=fdcq0rGz2L5U
 
 ## Estructura del proyecto (Tener presente)
 |
