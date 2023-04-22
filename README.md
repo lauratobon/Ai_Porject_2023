@@ -19,3 +19,8 @@ link codelab: https://colab.research.google.com/drive/1Vt2Fw4kWQpVfjMmocI5ombuw9
 |
 +-  README.md
 +-  PROYECTO_ENTREGA1.PDF
++-  PROYECTO_ENTREGA2.PDF
++-  01 - exploración de datos.ipynb
+
+## Video de la entrega e
+- https://drive.google.com/file/d/1nKglD0IX-u1BL7Sy04732tmabQ-3vod9/view?usp=sharing    
