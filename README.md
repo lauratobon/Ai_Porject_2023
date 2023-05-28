@@ -17,12 +17,12 @@ link codelab: https://colab.research.google.com/drive/1Vt2Fw4kWQpVfjMmocI5ombuw9
 
 ## Estructura del proyecto (Tener presente)
 |
-+-  README.md
-+-  PROYECTO_ENTREGA1.PDF
-+-  PROYECTO_ENTREGA2.PDF
-+-  PROYECTO_INFORME_FINAL.PDF
-+-  01 - exploración de datos.ipynb
-+-  02 - Modelos_e_iteraciones_final.ipynb
+-  README.md
+-  PROYECTO_ENTREGA1.PDF
+-  PROYECTO_ENTREGA2.PDF
+-  PROYECTO_INFORME_FINAL.PDF
+-  01 - exploración de datos.ipynb
+-  02 - Modelos_e_iteraciones_final.ipynb
 
 ## Video de la entrega e
 - video 1:  https://drive.google.com/file/d/1nKglD0IX-u1BL7Sy04732tmabQ-3vod9/view?usp=sharing    
