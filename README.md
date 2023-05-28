@@ -20,7 +20,10 @@ link codelab: https://colab.research.google.com/drive/1Vt2Fw4kWQpVfjMmocI5ombuw9
 +-  README.md
 +-  PROYECTO_ENTREGA1.PDF
 +-  PROYECTO_ENTREGA2.PDF
++-  PROYECTO_INFORME_FINAL.PDF
 +-  01 - exploración de datos.ipynb
++-  02 - Modelos_e_iteraciones_final.ipynb
 
 ## Video de la entrega e
-- https://drive.google.com/file/d/1nKglD0IX-u1BL7Sy04732tmabQ-3vod9/view?usp=sharing    
+- video 1:  https://drive.google.com/file/d/1nKglD0IX-u1BL7Sy04732tmabQ-3vod9/view?usp=sharing    
+- video 2: https://drive.google.com/file/d/1FXj1n1RTpQiiT8W6PAIVR2uvgXD_gokG/view
